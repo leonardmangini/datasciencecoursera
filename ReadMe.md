@@ -4,7 +4,6 @@ This repo contains the final project for the Coursera Course Getting and Cleanin
 
 It contains:
 
-- raw data from a Samsung Galaxy S Smartphone accelerometer
 - an R script that transforms this into a tidy data set tidy_data.txt
 - a CodeBook.md markdown file which describes how the R script works
 - the file tidy_data.txt that was produced from the R script.
